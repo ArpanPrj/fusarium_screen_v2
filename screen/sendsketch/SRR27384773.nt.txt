@@ -1,0 +1,104 @@
+
+Query: SRR27384773.1 A00197:158:HKVKMDSXX:3:1101:6406:1000 length=150	DB: nt	SketchLen: 33129	Seqs: 12446790 	Bases: 1867018500	gSize: 40133179	GC: 0.478	Quality: 0.9450
+WKID	KID	ANI	SSU	Complt	Contam	Matches	Unique	TaxID	gSize	gSeqs	taxName
+89.29%	82.73%	99.59%	.	100%	1.95%	20418	5207	5518	37112K	4353	Fusarium graminearum
+49.19%	44.01%	97.46%	.	66.92%	40.13%	11115	343	5516	35846K	1575	Fusarium culmorum
+34.29%	15.14%	96.20%	.	92.05%	59.36%	5015	130	1028729	17680K	12397	Fusarium pseudograminearum CS3096
+6.10%	5.88%	90.34%	.	21.98%	78.83%	1412	14	56646	38545K	14631	Fusarium venenatum
+2.16%	0.94%	86.91%	.	60.73%	73.56%	311	1	231269	17461K	11790	Fusarium coffeatum
+91.04%	0.18%	99.66%	.	100%	74.32%	61	0	569362	103747	16	Fusarium gerlachii
+0.63%	0.43%	82.93%	.	33.62%	77.15%	129	2	334819	27304K	20592	Fusarium verticillioides 7600
+0.62%	0.45%	82.85%	.	29.15%	78.72%	130	0	1089451	29350K	22547	Fusarium odoratissimum NRRL 54006
+0.58%	0.33%	82.72%	.	45.97%	74.17%	108	0	1227346	22466K	16052	Fusarium proliferatum ET1
+0.58%	0.44%	82.75%	.	26.83%	79.66%	124	0	660029	30438K	23795	Fusarium oxysporum NRRL 32931
+32.56%	0.08%	96.01%	.	100%	74.42%	28	1	282267	97682	1400	Fusarium asiaticum
+0.47%	0.40%	82.16%	.	13.38%	84.31%	99	1	5127	46812K	1208	Fusarium fujikuroi
+48.89%	0.07%	97.43%	.	100%	74.43%	22	0	282271	62096	195	Fusarium boothii
+94.74%	0.05%	99.83%	.	100%	74.45%	18	1	1785704	29387	1	Fusarium aff. graminearum CBS 138561
+85%	0.05%	99.40%	.	100%	74.45%	17	0	1785703	29496	1	Fusarium aff. graminearum CBS 104.09
+85%	0.05%	99.40%	.	100%	74.45%	17	0	1785707	29422	1	Fusarium aff. graminearum CBS 139513
+85%	0.05%	99.40%	.	100%	74.45%	17	0	1785706	29407	1	Fusarium aff. graminearum CBS 139514
+36%	0.05%	96.35%	.	100%	74.45%	18	0	282268	70786	49	Fusarium austroamericanum
+47.06%	0.05%	97.42%	.	100%	74.45%	16	0	281068	48312	89	Fusarium cortaderiae
+0.23%	0.13%	80.16%	.	44.81%	74.37%	44	1	660122	22954K	15686	Fusarium vanettenii 77-13-4
+40.54%	0.05%	96.61%	.	100%	74.45%	15	0	282269	50793	156	Fusarium meridionale
+35.90%	0.04%	96.43%	.	100%	74.46%	14	0	282272	57785	84	Fusarium acaciae-mearnsii
+31.82%	0.04%	95.89%	.	100%	74.46%	14	0	282270	62943	38	Fusarium mesoamericanum
+63.16%	0.04%	98.37%	.	100%	74.46%	12	0	1571107	28966	40	Fusarium nepalense
+57.14%	0.04%	97.96%	.	100%	74.46%	12	0	281087	28520	27	Fusarium brasilicum
+44.44%	0.04%	97.11%	.	100%	74.46%	12	0	569394	32381	40	Fusarium aethiopicum
+55%	0.03%	97.85%	.	100%	74.47%	11	0	569361	31616	57	Fusarium vorosii
+52.63%	0.03%	97.68%	.	100%	74.47%	10	0	1571108	29656	29	Fusarium louisianense
+0.16%	0.09%	79.22%	.	46.35%	74.41%	30	0	175245	22149K	326339	uncultured fungus
+19.64%	0.03%	94.00%	.	100%	74.47%	11	0	56641	68546	272	Fusarium cerealis
+50%	0.02%	97.59%	.	100%	74.48%	8	0	1785708	26590	1	Fusarium aff. graminearum CBS 119173
+44.44%	0.02%	97.26%	.	100%	74.48%	8	0	1785709	26224	1	Fusarium aff. graminearum CBS 138562
+3.73%	0.03%	88.72%	.	100%	74.47%	11	0	29916	350947	5242	Fusarium sp.
+5.35%	0.03%	89.75%	.	100%	74.47%	10	0	249398	230964	355	Fusarium commune
+0.18%	0.05%	79.46%	.	90.08%	74.45%	17	0	100272	11323K	160949	uncultured eukaryote
+75%	0.02%	99.21%	.	100%	74.48%	6	0	378169	13240	10	Fusarium sp. NRRL 36905
+0.11%	0.06%	77.94%	.	48.23%	74.44%	19	2	367110	21221K	11142	Neurospora crassa OR74A
+22.58%	0.02%	94.59%	.	100%	74.48%	7	0	56643	35881	23	Fusarium lunulosporum
+83.33%	0.02%	99.55%	.	100%	74.48%	5	0	378172	12985	9	Fusarium sp. NRRL 37605
+0.12%	0.05%	78.31%	.	63.56%	74.45%	16	0	510951	16028K	10379	Neurospora tetrasperma FGSC 2508
+83.33%	0.02%	99.55%	.	100%	74.48%	5	0	378171	10100	6	Fusarium sp. NRRL 38405
+0.11%	0.05%	76.62%	.	62.56%	74.45%	15	0	398673	16294K	11462	Trichoderma gamsii
+0.12%	0.04%	78.28%	.	72.53%	74.46%	14	0	58853	14090K	10146	Trichoderma citrinoviride
+45.45%	0.02%	97.17%	.	100%	74.48%	5	0	1284706	17910	25	Fusarium ussurianum
+0.12%	0.04%	77.51%	.	69.86%	74.46%	14	0	771870	14525K	9895	Sordaria macrospora k-hell
+0.10%	0.05%	77.60%	.	55.98%	74.45%	15	0	413071	18330K	12390	Trichoderma virens Gv29-8
+0.10%	0.05%	76.35%	.	56.90%	74.45%	15	0	1042311	17991K	12557	Trichoderma asperellum CBS 433.97
+0.11%	0.04%	78.05%	.	66.69%	74.46%	14	0	655819	15226K	10364	Beauveria bassiana ARSEF 2860
+45.45%	0.02%	97.37%	.	100%	74.48%	5	0	569395	13870	10	Fusarium sp. NRRL 45665
+4.49%	0.02%	89.21%	.	100%	74.48%	7	0	36050	173611	450	Fusarium poae
+0.10%	0.04%	77.76%	.	62.62%	74.46%	14	0	645133	16315K	12050	Colletotrichum graminicola M1.001
+0.09%	0.04%	76.26%	.	57.42%	74.46%	14	0	452589	17731K	11818	Trichoderma atroviride IMI 206040
+100%	0.01%	100%	.	100%	74.49%	4	0	378173	11649	7	Fusarium sp. NRRL 38208
+0.09%	0.04%	77.17%	.	54.55%	74.46%	14	0	1209926	18745K	14488	Colletotrichum orchidophilum
+100%	0.01%	100%	.	100%	74.49%	4	0	378174	9132	4	Fusarium sp. NRRL 38207
+80%	0.01%	99.37%	.	100%	74.49%	4	0	378170	7678	3	Fusarium sp. NRRL 38380
+6.10%	0.02%	90.19%	.	100%	74.48%	5	0	61235	114982	2164	Fusarium equiseti
+0.09%	0.03%	77.09%	.	75.56%	74.47%	10	0	563466	13436K	9036	Scedosporium apiospermum
+0.68%	0.02%	83.11%	.	100%	74.48%	6	2	3654	1023351	497	Citrullus lanatus
+3.45%	0.02%	88.50%	.	100%	74.48%	5	0	427292	191468	48	Fusarium aywerte
+0.08%	0.02%	77.00%	.	80.11%	74.48%	8	3	1958742	12999K	12677	Human ORFeome Gateway entry vector
+0.08%	0.03%	76.15%	.	72.99%	74.47%	9	0	1081104	13994K	10051	Cordyceps fumosorosea ARSEF 2679
+2.05%	0.02%	86.65%	.	100%	74.48%	5	0	42677	309662	383	Fusarium subglutinans
+0.07%	0.03%	76.80%	.	65.67%	74.47%	9	0	33203	15707K	12867	Purpureocillium lilacinum
+1.90%	0.02%	85.64%	.	100%	74.48%	5	0	169388	315446	6758	Fusarium solani
+0.47%	0.02%	82.28%	.	100%	74.48%	6	0	175243	1610087	14468	uncultured Ascomycota
+0.07%	0.03%	75.68%	.	61.36%	74.47%	9	0	332952	16796K	13302	Aspergillus flavus NRRL3357
+0.06%	0.03%	76.50%	.	60.28%	74.47%	9	0	671987	17011K	11689	Exserohilum turcica Et28A
+8.16%	0.01%	91.26%	.	100%	74.49%	4	0	2600298	62998	2	Fusarium bambusae
+0.06%	0.04%	75.93%	.	23.97%	81.09%	12	0	73501	31613K	600	Cordyceps militaris
+0.05%	0.03%	76.04%	.	51.02%	74.47%	9	0	759273	20148K	14650	Colletotrichum higginsianum IMI 349063
+1.05%	0.02%	84.59%	.	100%	74.48%	5	0	474922	570788	6299	Colletotrichum gloeosporioides
+0.05%	0.03%	75.78%	.	51.01%	74.47%	9	0	983964	20117K	14065	Trichoderma harzianum CBS 226.95
+5.26%	0.01%	84.10%	.	100%	74.49%	4	0	48490	102552	258	Fusarium circinatum
+4.88%	0.01%	83.82%	.	100%	74.49%	4	0	519315	90464	15	Citrullus mucosospermus
+4.82%	0.01%	83.82%	.	100%	74.49%	4	0	1567104	89775	19	Citrullus amarus
+4.71%	0.01%	83.69%	.	100%	74.49%	4	0	260675	91029	14	Citrullus rehmii
+3.31%	0.01%	88.35%	.	100%	74.49%	4	0	5514	141875	667	Fusarium sporotrichioides
+0.05%	0.02%	75.87%	.	57.40%	74.48%	8	0	109264	17855K	12302	Aspergillus bombycis
+0.05%	0.04%	75.85%	.	20.04%	82.90%	11	0	431241	34190K	9125	Trichoderma reesei QM6a
+0.14%	0.02%	78.29%	.	100%	74.48%	6	0	5062	5174211	8873	Aspergillus oryzae
+3.28%	0.01%	82.70%	.	100%	74.49%	4	0	3668	147141	420	Lagenaria siceraria
+1.96%	0.01%	86.01%	.	100%	74.49%	4	0	48485	261708	161	Fusarium anthophilum
+2.11%	0.01%	86.25%	.	100%	74.49%	4	0	48486	207190	132	Fusarium babinda
+0.04%	0.02%	74.65%	.	45.54%	74.48%	8	0	1229662	22338K	15413	Pestalotiopsis fici W106-1
+21.43%	0.01%	94.28%	.	100%	74.49%	3	0	488412	20008	2	Fusarium meridionale x Fusarium asiaticum
+7.14%	0.01%	90.80%	.	100%	74.49%	3	1	5128	68849	254	Fusarium sambucinum
+0.05%	0.02%	75.04%	.	57.34%	74.48%	7	0	1450537	17799K	11361	Aspergillus homomorphus CBS 101889
+6.67%	0.01%	90.26%	.	100%	74.49%	3	1	89141	64504	265	Cordyceps farinosa
+7.50%	0.01%	85.41%	.	100%	74.49%	3	1	1755430	48518	372	Ilyonectria sp.
+11.11%	0.01%	92.10%	.	100%	74.49%	3	0	1571137	37224	9	Fusarium dactylidis
+0.04%	0.02%	75.25%	.	50.82%	74.48%	7	0	1392250	20133K	13197	Aspergillus steynii IBT 23096
+0.04%	0.02%	74.62%	.	49.15%	74.48%	7	0	148305	20893K	13157	Pyricularia grisea
+0.05%	0.02%	75.53%	.	76.05%	74.48%	6	0	526221	13538K	10219	Verticillium alfalfae VaMs.102
+0.05%	0.02%	75.14%	.	66.07%	74.48%	6	0	1276141	15487K	10673	Metarhizium brunneum ARSEF 3297
+0.04%	0.03%	74.82%	.	24.13%	80.98%	8	0	500485	31602K	12821	Penicillium rubens Wisconsin 54-1255
+0.04%	0.02%	75.43%	.	61.47%	74.48%	6	0	441960	16542K	10623	Talaromyces marneffei ATCC 18224
+5.08%	0.01%	89.96%	.	100%	74.49%	3	0	29855	86695	116	Nectria cinnabarina
+0.04%	0.02%	75.36%	.	59.83%	74.48%	6	0	655844	16880K	11684	Metarhizium robertsii ARSEF 23
+0.04%	0.02%	74.76%	.	57.58%	74.48%	6	0	1509407	17821K	11904	Aspergillus nomiae NRRL 13137
+

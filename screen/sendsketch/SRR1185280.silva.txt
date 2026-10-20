@@ -1,0 +1,71 @@
+
+Query: SRR1185280.1 HWI-ST980:190:D0TCAACXX:7:1101:1081:2163 length=101	DB: Silva	SketchLen: 24	Seqs: 27608126 	Bases: 2788420726	gSize: 19744	GC: 0.512	Quality: 0.9540
+WKID	KID	ANI	SSU	Complt	Contam	Matches	Unique	TaxID	gSize	gSeqs	taxName
+100%	25%	100%	.	100%	75%	6	0	1824868	3335	2	Fusarium praegraminearum
+85.71%	25%	99.55%	.	85.71%	75%	6	0	5518	4245	11	Fusarium graminearum
+85.71%	25%	99.37%	.	85.71%	75%	6	0	36050	3386	2	Fusarium poae
+75%	25%	98.81%	.	75%	75%	6	0	948311	4865	3	Fusarium proliferatum
+83.33%	20.83%	99.16%	.	83.33%	79.17%	5	0	249398	4297	2	Fusarium commune
+40%	25%	97.47%	.	40%	75%	6	0	5507	9388	46	Fusarium oxysporum
+83.33%	20.83%	99.37%	.	83.33%	79.17%	5	0	179993	2926	1	Fusarium langsethiae
+71.43%	20.83%	98.71%	.	71.43%	79.17%	5	0	767483	4561	2	Fusarium temperatum
+62.50%	20.83%	98.93%	.	62.50%	79.17%	5	0	29856	4956	7	Clonostachys rosea
+50%	20.83%	97.51%	.	50%	79.17%	5	0	169388	5601	9	Fusarium solani
+41.67%	20.83%	98.15%	.	41.67%	79.17%	5	0	5125	11382	32	Hypocreales
+41.67%	20.83%	96.89%	.	41.67%	79.17%	5	0	176275	11295	27	Beauveria bassiana
+80%	16.67%	99.37%	.	80%	83.33%	4	0	1432141	3601	3	Rhizophagus irregularis DAOM 197198w
+80%	16.67%	99.37%	.	80%	83.33%	4	0	40199	3001	2	Fusarium avenaceum
+66.67%	16.67%	98.13%	.	66.67%	83.33%	4	0	48490	4751	3	Fusarium circinatum
+66.67%	16.67%	98.13%	.	66.67%	83.33%	4	0	1803897	3533	2	Fusarium agapanthi
+66.67%	16.67%	98.58%	.	66.67%	83.33%	4	0	232082	3079	2	Fusarium virguliforme
+66.67%	16.67%	98.93%	.	66.67%	83.33%	4	0	1501327	2742	1	Tolypocladium sp. Sup5 PDA-1
+57.14%	16.67%	98.59%	.	57.14%	83.33%	4	0	72228	5527	25	Ophiocordyceps sinensis
+57.14%	16.67%	98.09%	.	57.14%	83.33%	4	0	1355412	4365	7	Tolypocladium sp. Salcha MEA-2
+57.14%	16.67%	98.59%	.	57.14%	83.33%	4	0	72232	4106	6	Isaria
+57.14%	16.67%	97.78%	.	57.14%	83.33%	4	0	334819	3880	6	Fusarium verticillioides 7600
+25%	10.17%	95.10%	.	10.17%	75%	6	0	39946	42665	112	Oryza sativa Indica Group
+50%	16.67%	97.26%	.	50%	83.33%	4	0	5128	5159	4	Fusarium sambucinum
+50%	16.67%	97.26%	.	50%	83.33%	4	0	1159556	4727	15	Ustilaginoidea virens
+50%	16.67%	97.51%	.	50%	83.33%	4	0	89141	4278	7	Cordyceps farinosa
+50%	16.67%	97.51%	.	50%	83.33%	4	0	261921	2683	7	Acremonium sclerotigenum
+44.44%	16.67%	97.17%	.	44.44%	83.33%	4	0	858349	4685	8	Metarhizium viride
+36.36%	16.67%	96.44%	.	36.36%	83.33%	4	0	73501	8374	25	Cordyceps militaris
+100%	12.50%	100%	.	100%	87.50%	3	0	568076	3854	3	Metarhizium robertsii
+100%	12.50%	100%	.	100%	87.50%	3	0	5113	3162	3	Epichloe typhina
+100%	12.50%	100%	.	100%	87.50%	3	0	1915362	3086	2	Epichloe hybrida
+100%	12.50%	100%	.	100%	87.50%	3	0	1405084	3030	2	Epichloe bromicola ATCC 200750
+100%	12.50%	100%	.	100%	87.50%	3	0	1165860	2721	2	Lecanicillium sp. SGL1009
+100%	12.50%	100%	.	100%	87.50%	3	0	1111077	2687	1	Claviceps purpurea 20.1
+100%	12.50%	100%	.	100%	87.50%	3	0	1343085	2628	1	Polycephalomyces sp. GIMCC 3.570
+100%	12.50%	100%	.	100%	87.50%	3	0	1406312	2468	1	Epichloe baconii ATCC 200745
+100%	12.50%	100%	.	100%	87.50%	3	0	99897	2468	5	Cordyceps gunnii
+100%	12.50%	100%	.	100%	87.50%	3	0	798601	2031	1	Beauveria sp. SJL0910
+100%	12.50%	100%	.	100%	87.50%	3	0	877506	1739	1	Claviceps paspali RRC 1481
+75%	12.50%	98.93%	.	75%	87.50%	3	0	858348	3284	6	Metarhizium granulomatis
+75%	12.50%	99.37%	.	75%	87.50%	3	0	232081	3155	2	Fusarium tucumaniae
+75%	12.50%	98.93%	.	75%	87.50%	3	0	903638	2858	1	Cordyceps cicadae BA-001
+75%	12.50%	99.37%	.	75%	87.50%	3	0	1420317	2473	2	Acremonium sp. A109
+75%	12.50%	98.93%	.	75%	87.50%	3	0	196064	1905	2	Calonectria pseudonaviculata
+75%	12.50%	99.37%	.	75%	87.50%	3	0	1302859	1786	1	Hydropisphaera aurantiaca
+60.00%	12.50%	98.09%	.	60.00%	87.50%	3	0	98403	3446	3	Drechmeria coniospora
+60.00%	12.50%	98.93%	.	60.00%	87.50%	3	0	857340	2811	2	Hapsidospora chrysogenum ATCC 11550
+60.00%	12.50%	97.95%	.	60.00%	87.50%	3	0	78410	2557	1	Neonectria ditissima
+50%	12.50%	97.13%	.	50%	87.50%	3	0	1237896	3203	2	Colletotrichum gloeosporioides Cg-14
+50%	12.50%	98.59%	.	50%	87.50%	3	0	281365	2946	6	Acremonium potronii
+50%	12.50%	97.47%	.	50%	87.50%	3	0	1580213	2954	2	Xylaria sp. JS573
+42.86%	12.50%	96.89%	.	42.86%	87.50%	3	0	51453	5880	6	Trichoderma reesei
+50%	12.50%	97.19%	.	50%	87.50%	3	0	1531966	2524	1	[Torrubiella] hemipterigena
+50%	12.50%	98.59%	.	50%	87.50%	3	0	51582	2202	1	Atkinsonella texensis
+50%	12.50%	98.59%	.	50%	87.50%	3	0	591161	2011	1	Cordyceps taishanensis
+42.86%	12.50%	96.89%	.	42.86%	87.50%	3	0	94209	3936	3	Perennicordyceps prolifica
+42.86%	12.50%	96.69%	.	42.86%	87.50%	3	0	1081105	3570	3	Metarhizium rileyi
+42.86%	12.50%	97.17%	.	42.86%	87.50%	3	0	1419734	2635	4	Emericellopsis alkalina
+33.33%	12.50%	95.69%	.	33.33%	87.50%	3	0	5530	8346	26	Metarhizium anisopliae
+37.50%	12.50%	96.35%	.	37.50%	87.50%	3	0	45245	2531	3	Emericellopsis minima
+25%	12.50%	94.72%	.	25%	87.50%	3	0	27357	8271	12	Colletotrichum acutatum
+17.65%	12.50%	93.65%	.	17.65%	87.50%	3	0	129314	13217	5	Colletotrichum falcatum
+37.50%	0.13%	96.17%	.	0.13%	62.50%	9	2	256318	5516718	48691	metagenome
+15.79%	12.50%	93.38%	.	15.79%	87.50%	3	0	10090	12074	19	Mus musculus
+15.00%	12.50%	93.25%	.	15.00%	87.50%	3	0	4538	9184	9	Oryza glaberrima
+12.50%	8.11%	92.41%	.	8.11%	87.50%	3	0	31870	42906	36	Colletotrichum graminicola
+

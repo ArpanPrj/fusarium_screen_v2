@@ -1,0 +1,32 @@
+
+Query: SRR27384773.1 A00197:158:HKVKMDSXX:3:1101:6406:1000 length=150	DB: Silva	SketchLen: 51	Seqs: 12446790 	Bases: 1867018500	gSize: 64392	GC: 0.478	Quality: 0.9450
+WKID	KID	ANI	SSU	Complt	Contam	Matches	Unique	TaxID	gSize	gSeqs	taxName
+58.33%	13.73%	97.85%	.	58.33%	86.27%	7	0	10090	12074	19	Mus musculus
+19.61%	1.61%	94.30%	.	1.61%	80.39%	10	0	3352	798029	1220	Pinus taeda
+100%	5.88%	100%	.	100%	94.12%	3	0	5518	4245	11	Fusarium graminearum
+100%	5.88%	100%	.	100%	94.12%	3	0	1824868	3335	2	Fusarium praegraminearum
+25.49%	0.30%	95.23%	.	0.30%	74.51%	13	1	256318	5516718	48691	metagenome
+75%	5.88%	99.16%	.	75%	94.12%	3	0	563466	3567	1	Scedosporium apiospermum
+75%	5.88%	98.93%	.	75%	94.12%	3	0	36050	3386	2	Fusarium poae
+75%	5.88%	99.37%	.	75%	94.12%	3	0	232082	3079	2	Fusarium virguliforme
+75%	5.88%	90%	.	75%	94.12%	3	0	89141	4278	7	Cordyceps farinosa
+60.00%	5.88%	97.76%	.	60.00%	94.12%	3	0	72228	5527	25	Ophiocordyceps sinensis
+50%	5.88%	97.13%	.	50%	94.12%	3	0	176275	11295	27	Beauveria bassiana
+60.00%	5.88%	90%	.	60.00%	94.12%	3	0	261921	2683	7	Acremonium sclerotigenum
+50%	5.88%	97.13%	.	50%	94.12%	3	0	1615796	4411	4	Abrothrix hirta
+50%	5.88%	97.51%	.	50%	94.12%	3	0	1813822	3470	3	Xylariales sp. No.14919
+42.86%	5.88%	96.76%	.	42.86%	94.12%	3	0	10116	7246	13	Rattus norvegicus
+37.50%	5.88%	96.35%	.	37.50%	94.12%	3	0	5125	11382	32	Hypocreales
+30.00%	5.88%	95.33%	.	30.00%	94.12%	3	0	6337	13144	175	Trichinella pseudospiralis
+27.27%	5.88%	94.99%	.	27.27%	94.12%	3	0	90370	21140	156	Salmonella enterica subsp. enterica serovar Typhi
+9.80%	1.64%	91.54%	.	1.64%	90.20%	5	0	3635	362202	393	Gossypium hirsutum
+7.84%	3.23%	90.99%	.	3.23%	92.16%	4	0	4577	145311	596	Zea mays
+7.84%	2.38%	90.99%	.	2.38%	92.16%	4	0	4097	186934	243	Nicotiana tabacum
+7.32%	5.88%	91.10%	.	7.32%	94.12%	3	0	39946	42665	112	Oryza sativa Indica Group
+7.84%	1.87%	90.51%	.	1.87%	92.16%	4	0	4565	273956	536	Triticum aestivum
+7.84%	1.72%	91.20%	.	1.72%	92.16%	4	0	3634	276454	441	Gossypium barbadense
+5.88%	3.57%	90.22%	.	3.57%	94.12%	3	1	29730	93689	125	Gossypium raimondii
+5.88%	3.53%	89.92%	.	3.53%	94.12%	3	0	55571	119696	84	Dioscorea alata
+5.88%	2.40%	90.22%	.	2.40%	94.12%	3	0	55193	150998	3548	Malassezia
+5.88%	2.11%	89.92%	.	2.11%	94.12%	3	0	3708	174381	173	Brassica napus
+

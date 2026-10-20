@@ -1,0 +1,261 @@
+contig	length_bp	gc_percent	ambiguous_bp	reference_group	best_reference_group	near_best_groups	best_hsp_bitscore	best_hsp_identity	best_hsp_query_coverage_percent	best_hsp_alignment_bp	mapped_reads	covered_bp	breadth_percent	mean_depth	run	library	plot_group	query_union_bp	query_union_percent	support_status	reported_hsp_cap_reached	best_group_hsp_cap_reached
+k141_237	625	17.12	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	24	582	93.12	5.76	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_276	1015	14.8768	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	42	1015	100	6.19606	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_40	1285	17.4319	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	92	1167	90.8171	10.7393	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_238	856	18.9252	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	57	823	96.1449	9.98832	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_0	1400	14.2857	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	59	1398	99.8571	6.31357	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_239	602	14.9502	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	13	602	100	3.2392	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_159	1743	14.9168	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	87	1743	100	7.48078	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_1	667	12.1439	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	60	667	100	13.4933	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_41	851	42.8907	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	162	767	90.1293	28.5546	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_277	901	29.0788	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	121	901	100	20.1443	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_160	567	45.8554	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	273	468	82.5397	72.0935	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_161	838	15.2745	0	Partial reference match	Fusarium host reference	Fusarium host reference	564	81.333	69	600	40	836	99.7613	7.13007	SRR27384773	DNA	Partial reference match	578	68.9737470167064	Partial support	FALSE	FALSE
+k141_278	1008	13.8889	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	39	1008	100	5.80357	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_43	1325	20.7547	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	148	1230	92.8302	16.7547	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_2	1772	20.9368	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	182	1772	100	15.4063	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_164	851	17.8613	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	64	851	100	11.2808	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_279	1530	18.6928	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	140	1530	100	13.7222	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_3	752	16.7553	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	77	752	100	15.359	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_4	694	16.7147	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	30	694	100	6.48415	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_280	1038	13.2948	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	1301	85.636	100	1093	30	1010	97.3025	4.32081	SRR27384773	DNA	Fusarium host reference	1038	100	Broad support	FALSE	FALSE
+k141_165	1743	16.3511	0	Partial reference match	Fusarium host reference	Fusarium host reference	505	84.749	26	459	119	1743	100	10.2387	SRR27384773	DNA	Partial reference match	543	31.1531841652324	Partial support	TRUE	TRUE
+k141_5	800	15.125	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	21	800	100	3.9375	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_44	4507	36.3878	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	1028	4420	98.0697	34.2134	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_7	1477	19.3636	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	170	1477	100	17.2647	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_8	642	14.9533	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	15	624	97.1963	3.50467	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_45	1662	16.0048	0	Partial reference match	Fusarium host reference	Fusarium host reference	595	87.129	30	505	127	1662	100	11.4621	SRR27384773	DNA	Partial reference match	496	29.8435619735259	Partial support	TRUE	TRUE
+k141_9	829	16.6466	0	Partial reference match	Fusarium host reference	Fusarium host reference	530	91.053	45	380	43	829	100	7.76478	SRR27384773	DNA	Partial reference match	384	46.3208685162847	Partial support	FALSE	FALSE
+k141_198	7196	44.358	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	12834	99.569	100	7196	2040	7157	99.458	42.5233	SRR27384773	DNA	Fusarium host reference	7196	100	Broad support	FALSE	FALSE
+k141_47	778	13.2391	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	23	778	100	4.43445	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_48	1168	17.8938	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	102	1168	100	13.0993	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_11	1042	57.2937	0	Homo_sapiens	Homo_sapiens	Homo_sapiens	1799	98.463	99	1041	30	1042	100	4.31862	SRR27384773	DNA	Homo_sapiens	1040	99.8080614203455	Broad support	TRUE	TRUE
+k141_49	1149	16.9713	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	68	1072	93.2985	8.87728	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_50	761	16.82	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	753	84.548	90	686	58	761	100	11.4323	SRR27384773	DNA	Fusarium host reference	704	92.5098554533509	Broad support	TRUE	TRUE
+k141_12	1263	16.152	0	Partial reference match	Fusarium host reference	Fusarium host reference	920	86.71	61	775	80	1261	99.8416	9.50119	SRR27384773	DNA	Partial reference match	773	61.2034837688044	Partial support	FALSE	FALSE
+k141_51	989	14.1557	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	35	746	75.4297	5.28716	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_52	853	14.7714	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	23	853	100	4.04455	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_53	671	15.6483	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	16	671	100	3.57675	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_54	572	13.6364	0	Partial reference match	Fusarium host reference	Fusarium host reference	388	88.487	53	304	20	539	94.2308	5.23077	SRR27384773	DNA	Partial reference match	304	53.1468531468531	Partial support	FALSE	FALSE
+k141_13	1560	27.8846	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	226	1560	100	21.7308	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_14	851	14.3361	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	21	851	100	3.70153	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_55	2106	19.9905	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	240	2106	100	17.094	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_15	596	15.7718	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	26	596	100	6.54362	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_16	1578	16.7934	0	Partial reference match	Fusarium host reference	Fusarium host reference	434	85.791	24	373	125	1578	100	11.8783	SRR27384773	DNA	Partial reference match	373	23.637515842839	Partial support	TRUE	FALSE
+k141_56	4893	30.0838	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	1823	4893	100	55.8692	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_17	3152	20.8756	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	509	3152	100	24.2227	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_18	7369	48.2291	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	4621	7369	100	94.0191	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_57	12752	39.7506	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	3517	12752	100	41.3627	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_59	1493	15.2043	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	93	1396	93.503	9.3436	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_61	619	48.7884	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	27	439	70.9208	6.54281	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_19	29152	46.9367	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	52220	99.736	100	29153	8656	29147	99.9828	44.5386	SRR27384773	DNA	Fusarium host reference	29152	100	Broad support	TRUE	FALSE
+k141_20	903	16.5006	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	64	903	100	10.6301	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_80	64130	47.898	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	94681	99.741	82	52846	20546	64129	99.9984	48.0552	SRR27384773	DNA	Fusarium host reference	62674	97.7296117261812	Broad support	TRUE	TRUE
+k141_24	15142	43.0128	0	Partial reference match	Fusarium host reference	Fusarium host reference	722	91.373	3	510	4255	15142	100	42.1493	SRR27384773	DNA	Partial reference match	510	3.36811517633074	Partial support	FALSE	FALSE
+k141_25	812	17.734	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	47	812	100	8.68227	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_199	108659	46.5953	0	Partial reference match	Fusarium host reference	Fusarium host reference	71556	96.387	40	43675	33755	108659	100	46.5929	SRR27384773	DNA	Partial reference match	100014	92.0439172088828	Broad support	TRUE	TRUE
+k141_201	504	50.7937	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	7	504	100	2.07143	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_240	265138	48.695	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	397200	99.706	84	221851	84166	265121	99.9936	47.6145	SRR27384773	DNA	Fusarium host reference	262096	98.8526729476725	Broad support	TRUE	TRUE
+k141_281	174404	47.4249	0	Partial reference match	Fusarium host reference	Fusarium host reference	189000	99.127	61	107161	53989	174404	100	46.4291	SRR27384773	DNA	Partial reference match	160308	91.9176165684273	Broad support	TRUE	TRUE
+k141_242	8498	44.9753	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	2538	8494	99.9529	44.7957	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_243	1265	14.9407	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	56	1265	100	6.64032	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_244	643	13.9969	0	Partial reference match	Fusarium host reference	Fusarium host reference	602	92.143	65	420	31	643	100	7.23173	SRR27384773	DNA	Partial reference match	643	100	Broad support	FALSE	FALSE
+k141_245	2090	16.4593	0	Partial reference match	Fusarium host reference	Fusarium host reference	1131	86.523	46	972	147	2033	97.2727	10.5502	SRR27384773	DNA	Partial reference match	970	46.4114832535885	Partial support	FALSE	FALSE
+k141_246	531	14.5009	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	30	531	100	8.47458	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_28	188246	48.5694	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	337600	99.785	99	188187	60778	188229	99.991	48.4268	SRR27384773	DNA	Fusarium host reference	188105	99.9250980100507	Broad support	TRUE	TRUE
+k141_62	363877	48.966	0	Partial reference match	Fusarium host reference	Fusarium host reference	212700	99.783	33	118623	115330	363877	100	47.5386	SRR27384773	DNA	Partial reference match	358746	98.5899081282961	Broad support	TRUE	TRUE
+k141_64	659	14.4158	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	49	645	97.8756	11.1533	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_65	831	15.0421	0	Partial reference match	Fusarium host reference	Fusarium host reference	746	86.922	74	627	36	831	100	6.49819	SRR27384773	DNA	Partial reference match	617	74.2478941034898	Partial support	TRUE	TRUE
+k141_81	282995	48.7676	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	447100	99.881	88	248670	89856	282995	100	47.6258	SRR27384773	DNA	Fusarium host reference	282866	99.9544161557625	Broad support	TRUE	TRUE
+k141_82	29321	37.4953	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	13723	29321	100	70.1718	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_66	59557	45.469	0	Partial reference match	Fusarium host reference	Fusarium host reference	80268	98.393	78	46363	17923	59557	100	45.1386	SRR27384773	DNA	Partial reference match	46317	77.7691958963682	Partial support	TRUE	TRUE
+k141_67	637	17.7394	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	26	637	100	6.12245	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_68	817	17.2583	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	53	817	100	9.73072	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_69	2993	18.3094	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	267	2935	98.0621	13.3812	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_70	5093	17.6909	0	Partial reference match	Fusarium host reference	Fusarium host reference	2196	87.115	34	1785	395	5093	100	11.6332	SRR27384773	DNA	Partial reference match	2040	40.0549774199882	Partial support	TRUE	TRUE
+k141_71	707	18.8119	0	Partial reference match	Fusarium host reference	Fusarium host reference	570	87.912	64	455	57	640	90.5233	12.0849	SRR27384773	DNA	Partial reference match	498	70.4384724186704	Partial support	TRUE	TRUE
+k141_202	273034	49.0774	0	Partial reference match	Fusarium host reference	Fusarium host reference	277400	99.904	56	154205	87851	273034	100	48.2618	SRR27384773	DNA	Partial reference match	272153	99.6773295633511	Broad support	TRUE	TRUE
+k141_204	1455	39.5876	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	327	1454	99.9313	33.7093	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_205	529	63.327	0	Homo_sapiens	Homo_sapiens	Homo_sapiens	881	97.164	100	529	8	529	100	2.26843	SRR27384773	DNA	Homo_sapiens	529	100	Broad support	FALSE	FALSE
+k141_72	7824	19.274	0	Partial reference match	Fusarium host reference	Fusarium host reference	384	80.861	5	418	705	7822	99.9744	13.515	SRR27384773	DNA	Partial reference match	416	5.31697341513292	Partial support	TRUE	TRUE
+k141_73	713	15.568	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	50	713	100	10.5189	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_74	7874	52.2479	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	14029	99.517	100	7874	221137	7874	100	4211.7	SRR27384773	DNA	Fusarium host reference	7874	100	Broad support	TRUE	TRUE
+k141_75	529	58.9792	0	Homo_sapiens	Homo_sapiens	Homo_sapiens	672	90.947	91	486	6	427	80.7183	1.70132	SRR27384773	DNA	Homo_sapiens	484	91.4933837429111	Broad support	TRUE	TRUE
+k141_247	258782	46.0469	0	Partial reference match	Fusarium host reference	Fusarium host reference	79786	98.615	18	45840	80184	258762	99.9923	46.4761	SRR27384773	DNA	Partial reference match	149444	57.7489933612075	Partial support	TRUE	TRUE
+k141_29	163792	49.0909	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	294300	99.85	99	163840	52406	163792	100	47.9868	SRR27384773	DNA	Fusarium host reference	163784	99.9951157565693	Broad support	TRUE	TRUE
+k141_30	507	45.3649	0	Homo_sapiens	Homo_sapiens	Homo_sapiens	911	99.803	100	507	7	507	100	2.07101	SRR27384773	DNA	Homo_sapiens	507	100	Broad support	FALSE	FALSE
+k141_31	2922	53.4908	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	8278	2922	100	424.534	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_32	14500	44.1862	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	24453	99.44	95	13758	4542	14500	100	46.9844	SRR27384773	DNA	Fusarium host reference	13750	94.8275862068966	Broad support	TRUE	TRUE
+k141_33	619	17.7706	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	34	610	98.546	8.23748	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_34	1061	23.8454	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	879	82.002	86	939	175	1056	99.5287	24.7408	SRR27384773	DNA	Fusarium host reference	913	86.0508953817154	Broad support	TRUE	TRUE
+k141_248	28389	46.1305	0	Partial reference match	Fusarium host reference	Fusarium host reference	23208	99.088	46	13152	8487	28389	100	44.8405	SRR27384773	DNA	Partial reference match	21497	75.722991299447	Partial support	TRUE	TRUE
+k141_35	715	15.9441	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	30	714	99.8601	6.29371	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_36	570	48.5965	0	Homo_sapiens	Homo_sapiens	Homo_sapiens	805	91.388	99	569	16	570	100	4.19474	SRR27384773	DNA	Homo_sapiens	569	99.8245614035088	Broad support	TRUE	TRUE
+k141_249	3136	23.8202	0	Partial reference match	Fusarium host reference	Fusarium host reference	2195	86.144	59	1862	578	3122	99.5536	27.6467	SRR27384773	DNA	Partial reference match	1862	59.375	Partial support	TRUE	TRUE
+k141_251	1742	17.0494	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	150	1742	100	12.9133	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_252	1446	20.4703	0	Partial reference match	Fusarium host reference	Fusarium host reference	1312	91.202	64	932	229	1446	100	23.7552	SRR27384773	DNA	Partial reference match	932	64.4536652835408	Partial support	TRUE	TRUE
+k141_253	1233	17.356	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	69	1233	100	8.382	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_254	42756	44.9036	0	Partial reference match	Fusarium host reference	Fusarium host reference	25691	98.417	35	14849	13312	42756	100	46.7006	SRR27384773	DNA	Partial reference match	35339	82.6527271026289	Broad support	TRUE	TRUE
+k141_255	640	14.2188	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	44	640	100	10.3125	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_256	2106	22.7445	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	299	2081	98.8129	21.2963	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_257	1150	11.913	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	123	1123	97.6522	16.0435	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_258	4378	23.7323	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	699	4377	99.9772	23.9466	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_260	682	15.2493	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	11	682	100	2.41935	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_261	1233	21.0868	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	1673	90.594	98	1212	200	1233	100	24.3309	SRR27384773	DNA	Fusarium host reference	1212	98.2968369829684	Broad support	FALSE	FALSE
+k141_262	653	15.3139	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	12	653	100	2.75651	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_37	64793	48.5438	0	Partial reference match	Fusarium host reference	Fusarium host reference	46792	99.889	40	26021	20643	64791	99.9969	47.7883	SRR27384773	DNA	Partial reference match	62235	96.0520426589292	Broad support	TRUE	TRUE
+k141_38	2284	27.8897	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	394	2262	99.0368	25.8757	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_263	81882	47.0067	0	Partial reference match	Fusarium host reference	Fusarium host reference	56863	99.029	39	32329	25678	81882	100	47.0353	SRR27384773	DNA	Partial reference match	67626	82.5895801275006	Broad support	TRUE	TRUE
+k141_76	237106	48.5386	0	Partial reference match	Fusarium host reference	Fusarium host reference	180700	99.906	42	100465	75819	237106	100	47.9625	SRR27384773	DNA	Partial reference match	235190	99.1919226000186	Broad support	TRUE	TRUE
+k141_77	1683	27.1539	0	Partial reference match	Fusarium host reference	Fusarium host reference	1407	93.016	56	945	260	1633	97.0291	23.1729	SRR27384773	DNA	Partial reference match	945	56.1497326203209	Partial support	FALSE	FALSE
+k141_206	286751	46.8351	0	Partial reference match	Fusarium host reference	Fusarium host reference	180100	98.489	36	103810	89129	286692	99.9794	46.6221	SRR27384773	DNA	Partial reference match	254610	88.7913206928659	Broad support	TRUE	TRUE
+k141_207	760	13.6842	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	22	737	96.9737	4.34211	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_208	1686	16.6074	0	Partial reference match	Fusarium host reference	Fusarium host reference	290	81.138	20	334	86	1625	96.382	7.65125	SRR27384773	DNA	Partial reference match	332	19.6915776986951	Partial support	TRUE	FALSE
+k141_210	524	41.4122	0	Partial reference match	Fusarium host reference	Fusarium host reference	488	94.044	61	319	50	518	98.855	14.2595	SRR27384773	DNA	Partial reference match	319	60.8778625954198	Partial support	FALSE	FALSE
+k141_211	1369	17.8232	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	150	1249	91.2345	16.4354	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_212	616	12.6623	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	18	565	91.7208	4.38312	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_83	360066	49.3526	0	Partial reference match	Fusarium host reference	Fusarium host reference	196900	99.9	30	109454	116833	360065	99.9997	48.6694	SRR27384773	DNA	Partial reference match	342459	95.1100631550882	Broad support	TRUE	TRUE
+k141_214	114169	46.5985	0	Partial reference match	Fusarium host reference	Fusarium host reference	65078	97.476	34	38546	34558	114167	99.9982	45.4024	SRR27384773	DNA	Partial reference match	109033	95.5014058106842	Broad support	TRUE	TRUE
+k141_215	751	43.2756	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	11	751	100	2.19707	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_217	788	19.797	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	76	788	100	14.467	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_218	569	16.696	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	51	569	100	13.4446	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_219	94678	44.3039	0	Partial reference match	Fusarium host reference	Fusarium host reference	53568	99.302	32	30243	28130	94511	99.8236	44.5656	SRR27384773	DNA	Partial reference match	80609	85.1401592767063	Broad support	TRUE	TRUE
+k141_166	731450	48.5373	0	Partial reference match	Fusarium host reference	Fusarium host reference	566400	99.889	43	314988	233834	731450	100	47.9508	SRR27384773	DNA	Partial reference match	648845	88.7066785152779	Broad support	TRUE	TRUE
+k141_168	505	15.2475	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	19	505	100	5.64356	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_169	607	12.5206	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	12	607	100	2.9654	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_172	2086	21.3806	0	Partial reference match	Fusarium host reference	Fusarium host reference	1294	81.468	66	1376	307	2086	100	22.0757	SRR27384773	DNA	Partial reference match	1368	65.5800575263662	Partial support	TRUE	TRUE
+k141_173	516	36.6279	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	7	442	85.6589	2.03488	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_174	2349	21.2005	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	264	2342	99.702	16.8425	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_175	527	14.8008	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	13	389	73.814	3.70019	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_176	578	14.7059	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	40	555	96.0208	10.3806	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_177	594	12.963	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	21	594	100	5.30303	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_264	608283	48.283	0	Partial reference match	Fusarium host reference	Fusarium host reference	260700	99.793	24	145296	190977	608283	100	47.0925	SRR27384773	DNA	Partial reference match	544324	89.4853217992283	Broad support	TRUE	TRUE
+k141_265	522	17.2414	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	33	522	100	9.48276	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_266	1593	16.2586	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	120	1593	100	11.2994	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_78	618009	48.0331	0	Partial reference match	Fusarium host reference	Fusarium host reference	234800	99.697	21	131210	193574	618005	99.9994	46.9795	SRR27384773	DNA	Partial reference match	377456	61.0761331954713	Partial support	TRUE	TRUE
+k141_220	318299	47.3677	0	Partial reference match	Fusarium host reference	Fusarium host reference	120300	99.306	21	67896	100384	318299	100	47.3027	SRR27384773	DNA	Partial reference match	259649	81.5739289158935	Broad support	TRUE	TRUE
+k141_120	1158867	48.7647	0	Partial reference match	Fusarium host reference	Fusarium host reference	301300	99.893	14	167538	372935	1158867	100	48.2696	SRR27384773	DNA	Partial reference match	657773	56.7600078352391	Partial support	TRUE	TRUE
+k141_121	508	43.8976	0	Homo_sapiens	Homo_sapiens	Homo_sapiens	917	100	100	508	12	508	100	3.46063	SRR27384773	DNA	Homo_sapiens	508	100	Broad support	TRUE	TRUE
+k141_122	4206	20.9225	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	499	4149	98.6448	17.7917	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_123	1856	15.0323	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	98	1856	100	7.90409	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_125	2816	21.5554	0	Partial reference match	Fusarium host reference	Fusarium host reference	1253	80.739	49	1381	489	2816	100	26.0476	SRR27384773	DNA	Partial reference match	1373	48.7571022727273	Partial support	TRUE	TRUE
+k141_267	251743	46.6416	0	Partial reference match	Fusarium host reference	Fusarium host reference	104500	98.814	24	59714	77438	251743	100	46.1389	SRR27384773	DNA	Partial reference match	172223	68.4122299329078	Partial support	TRUE	TRUE
+k141_269	7836	26.3527	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	1694	7718	98.4941	32.4257	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_270	1005	15.4229	0	Partial reference match	Fusarium host reference	Fusarium host reference	510	88.078	40	411	37	951	94.6269	5.52239	SRR27384773	DNA	Partial reference match	407	40.4975124378109	Partial support	TRUE	FALSE
+k141_271	3033	16.3864	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	206	3033	100	10.1879	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_272	581	18.5886	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	21	571	98.2788	5.42169	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_273	898	22.2717	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	150	898	100	25.0557	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_274	7529	24.2396	0	Partial reference match	Fusarium host reference	Fusarium host reference	1231	80.377	18	1381	1339	7506	99.6945	26.6768	SRR27384773	DNA	Partial reference match	1819	24.1599149953513	Partial support	TRUE	TRUE
+k141_126	41736	49.7508	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	73522	99.78	98	40986	13092	41736	100	47.0483	SRR27384773	DNA	Fusarium host reference	40979	98.1862181330266	Broad support	FALSE	FALSE
+k141_127	798	15.4135	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	21	798	100	3.93985	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_128	1908	21.6457	0	Partial reference match	Fusarium host reference	Fusarium host reference	504	80.47	29	553	212	1908	100	16.6667	SRR27384773	DNA	Partial reference match	552	28.9308176100629	Partial support	TRUE	TRUE
+k141_129	1693	12.404	0	Partial reference match	Fusarium host reference	Fusarium host reference	453	80.539	30	519	69	1693	100	6.09746	SRR27384773	DNA	Partial reference match	513	30.3012404016539	Partial support	FALSE	FALSE
+k141_130	893	15.7895	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	47	893	100	7.8869	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_131	916	16.1572	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	49	900	98.2533	8.02402	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_132	864	24.8843	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	165	864	100	28.6435	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_283	882366	48.5754	0	Partial reference match	Fusarium host reference	Fusarium host reference	396900	99.855	25	220901	281512	882366	100	47.8538	SRR27384773	DNA	Partial reference match	533067	60.4133658821849	Partial support	TRUE	TRUE
+k141_84	746219	48.5307	0	Partial reference match	Fusarium host reference	Fusarium host reference	349000	99.714	26	194966	236696	746219	100	47.5761	SRR27384773	DNA	Partial reference match	595800	79.8425127207964	Partial support	TRUE	TRUE
+k141_85	2913	47.6828	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	7914	2913	100	407.1	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_86	968	29.0289	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	1394	963	99.4835	214.387	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_88	974	45.0719	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	1739	99.589	100	974	492	974	100	75.5359	SRR27384773	DNA	Fusarium host reference	974	100	Broad support	FALSE	FALSE
+k141_178	452147	48.9401	0	Partial reference match	Fusarium host reference	Fusarium host reference	399400	99.942	49	221836	145838	452147	100	48.3796	SRR27384773	DNA	Partial reference match	451915	99.9486892537162	Broad support	TRUE	TRUE
+k141_89	257922	48.7333	0	Partial reference match	Fusarium host reference	Fusarium host reference	308400	99.871	67	171587	83965	257829	99.9639	48.8294	SRR27384773	DNA	Partial reference match	256602	99.4882173680415	Broad support	TRUE	TRUE
+k141_221	715792	47.8406	0	Partial reference match	Fusarium host reference	Fusarium host reference	315900	98.919	25	180043	224807	715761	99.9957	47.1075	SRR27384773	DNA	Partial reference match	534682	74.6979569483872	Partial support	TRUE	TRUE
+k141_223	2297	17.98	0	Partial reference match	Fusarium host reference	Fusarium host reference	1122	85.872	43	998	159	2160	94.0357	10.3805	SRR27384773	DNA	Partial reference match	1434	62.4292555507183	Partial support	TRUE	TRUE
+k141_224	1457	14.6191	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	52	1457	100	5.35347	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_226	645	16.2791	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	54	645	100	12.5581	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_133	694945	48.9832	0	Partial reference match	Fusarium host reference	Fusarium host reference	504700	99.771	40	281483	223142	694945	100	48.1615	SRR27384773	DNA	Partial reference match	690743	99.3953478332818	Broad support	TRUE	TRUE
+k141_79	1104580	49.0527	0	Partial reference match	Fusarium host reference	Fusarium host reference	285100	99.92	14	158390	355612	1104580	100	48.2892	SRR27384773	DNA	Partial reference match	646643	58.5419797570117	Partial support	TRUE	TRUE
+k141_90	303161	47.3841	0	Partial reference match	Fusarium host reference	Fusarium host reference	193500	98.834	36	110502	93597	303161	100	46.3066	SRR27384773	DNA	Partial reference match	239596	79.0325932425345	Partial support	TRUE	TRUE
+k141_91	1224	20.4248	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	130	1224	100	15.9191	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_93	57827	47.0905	0	Partial reference match	Fusarium host reference	Fusarium host reference	39074	99.315	38	22048	17823	57827	100	46.2307	SRR27384773	DNA	Partial reference match	56180	97.1518494820758	Broad support	TRUE	TRUE
+k141_228	453681	48.4775	0	Partial reference match	Fusarium host reference	Fusarium host reference	352000	99.844	43	195984	143497	453642	99.9914	47.4404	SRR27384773	DNA	Partial reference match	449185	99.0089953072754	Broad support	TRUE	TRUE
+k141_231	665	16.9925	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	42	665	100	9.47368	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_94	225051	46.852	0	Partial reference match	Fusarium host reference	Fusarium host reference	89273	97.813	23	52407	69087	225050	99.9996	46.0429	SRR27384773	DNA	Partial reference match	136059	60.4569630883666	Partial support	TRUE	TRUE
+k141_232	30790	49.2303	0	Partial reference match	Fusarium host reference	Fusarium host reference	38754	99.769	70	21621	9523	30757	99.8928	46.3912	SRR27384773	DNA	Partial reference match	30161	97.9571289379669	Broad support	FALSE	FALSE
+k141_234	532	14.2857	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	20	532	100	5.6391	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_235	1047	18.5291	0	Partial reference match	Fusarium host reference	Fusarium host reference	245	80.528	28	303	60	995	95.0334	8.58357	SRR27384773	DNA	Partial reference match	295	28.1757402101242	Partial support	TRUE	TRUE
+k141_236	650	13.2308	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	60	650	100	13.7815	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_134	411439	46.6001	0	Partial reference match	Fusarium host reference	Fusarium host reference	147600	99.24	20	83403	127350	411439	100	46.4257	SRR27384773	DNA	Partial reference match	232069	56.4042300316693	Partial support	TRUE	TRUE
+k141_137	1398	20.5293	0	Partial reference match	Fusarium host reference	Fusarium host reference	950	97.674	40	559	220	1398	100	23.6052	SRR27384773	DNA	Partial reference match	991	70.8869814020029	Partial support	TRUE	TRUE
+k141_138	568	57.5704	0	Homo_sapiens	Homo_sapiens	Homo_sapiens	1025	100	100	568	38	568	100	10.0352	SRR27384773	DNA	Homo_sapiens	568	100	Broad support	TRUE	TRUE
+k141_139	1569	14.7228	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	65	1569	100	6.21287	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_95	260385	49.1346	0	Partial reference match	Fusarium host reference	Fusarium host reference	326400	99.924	70	181375	84893	260385	100	48.9025	SRR27384773	DNA	Partial reference match	260133	99.9032202315802	Broad support	TRUE	TRUE
+k141_96	607	34.4316	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	11	607	100	2.71664	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_179	888842	48.3028	0	Partial reference match	Fusarium host reference	Fusarium host reference	317400	99.846	20	176695	280209	888842	100	47.2846	SRR27384773	DNA	Partial reference match	638288	71.8111880401691	Partial support	TRUE	TRUE
+k141_180	102732	49.1054	0	Partial reference match	Fusarium host reference	Fusarium host reference	52120	99.63	28	29162	32332	102728	99.9961	47.2062	SRR27384773	DNA	Partial reference match	85377	83.1065296110267	Broad support	TRUE	TRUE
+k141_181	1249	32.2658	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	206	1249	100	24.6357	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_284	1316775	48.9217	0	Partial reference match	Fusarium host reference	Fusarium host reference	446500	99.839	19	248606	424113	1316775	100	48.3104	SRR27384773	DNA	Partial reference match	740936	56.268990526096	Partial support	TRUE	TRUE
+k141_285	113880	45.9159	0	Partial reference match	Fusarium host reference	Fusarium host reference	95491	99.441	47	53715	34863	113880	100	45.9179	SRR27384773	DNA	Partial reference match	107420	94.3273621355813	Broad support	TRUE	TRUE
+k141_286	5916	18.4922	0	Partial reference match	Fusarium host reference	Fusarium host reference	1377	82.545	23	1375	668	5841	98.7323	16.937	SRR27384773	DNA	Partial reference match	2709	45.7910750507099	Partial support	TRUE	TRUE
+k141_183	382915	48.9996	0	Partial reference match	Fusarium host reference	Fusarium host reference	265300	99.572	39	148727	121176	382915	100	47.4646	SRR27384773	DNA	Partial reference match	355269	92.7801209145633	Broad support	TRUE	TRUE
+k141_184	828	24.3961	0	Partial reference match	Fusarium host reference	Fusarium host reference	642	93.224	52	428	110	828	100	19.8273	SRR27384773	DNA	Partial reference match	428	51.6908212560386	Partial support	FALSE	FALSE
+k141_185	527	51.6129	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	676	89.32	97	515	70	506	96.0152	19.888	SRR27384773	DNA	Fusarium host reference	523	99.2409867172675	Broad support	TRUE	TRUE
+k141_186	617	17.1799	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	12	602	97.5689	2.91734	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_187	843	13.4045	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	27	843	100	4.80427	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_188	749	17.223	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	53	749	100	10.6142	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_97	838768	48.6515	0	Partial reference match	Fusarium host reference	Fusarium host reference	523400	99.79	35	291786	266055	838768	100	47.5755	SRR27384773	DNA	Partial reference match	610326	72.7645785246934	Partial support	TRUE	TRUE
+k141_189	119364	49.143	0	Partial reference match	Fusarium host reference	Fusarium host reference	113100	99.898	53	62904	38243	119364	100	48.0568	SRR27384773	DNA	Partial reference match	118641	99.3942897355987	Broad support	TRUE	TRUE
+k141_190	585	11.2821	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	10	441	75.3846	2.5641	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_192	704	13.3523	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	24	700	99.4318	5.11364	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_193	717	14.3654	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	10	545	76.0112	2.09205	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_194	524	15.0763	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	26	524	100	7.44275	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_195	6534	45.6688	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	11120	99.33	96	6273	1821	6532	99.9694	41.7963	SRR27384773	DNA	Fusarium host reference	6272	95.9902050811142	Broad support	TRUE	TRUE
+k141_196	9029	29.7264	0	Partial reference match	Fusarium host reference	Fusarium host reference	300	82.295	3	305	2182	8989	99.557	36.2486	SRR27384773	DNA	Partial reference match	304	3.36692878502603	Partial support	FALSE	FALSE
+k141_197	1469	16.5419	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	95	1468	99.9319	9.68346	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_98	386784	48.3965	0	Partial reference match	Fusarium host reference	Fusarium host reference	187100	99.723	27	104444	122464	386784	100	47.487	SRR27384773	DNA	Partial reference match	312766	80.8632208157525	Broad support	TRUE	TRUE
+k141_99	13777	45.409	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	3854	13776	99.9927	41.9599	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_100	822	20.438	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	75	812	98.7835	13.6861	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_101	2093	17.9646	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	146	2089	99.8089	10.4534	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_102	659	14.5675	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	17	659	100	3.8695	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_103	526	48.4791	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	2	300	57.0342	0.570342	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_104	580	12.5862	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	16	580	100	4.06207	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_287	650596	49.0547	0	Partial reference match	Fusarium host reference	Fusarium host reference	238300	99.796	20	132857	209559	650596	100	48.3132	SRR27384773	DNA	Partial reference match	467290	71.8249113120892	Partial support	TRUE	TRUE
+k141_108	79166	45.2631	0	Partial reference match	Fusarium host reference	Fusarium host reference	58859	99.258	42	33269	23865	79166	100	45.2174	SRR27384773	DNA	Partial reference match	64550	81.5375287370841	Broad support	TRUE	TRUE
+k141_109	1276	61.5987	0	Partial reference match	Homo_sapiens	Homo_sapiens	1142	98.195	52	665	35	1178	92.3197	4.11364	SRR27384773	DNA	Partial reference match	1177	92.2413793103448	Broad support	TRUE	TRUE
+k141_110	1350	41.3333	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	2435	100	100	1350	7372	1350	100	818.329	SRR27384773	DNA	Fusarium host reference	1350	100	Broad support	TRUE	TRUE
+k141_111	904	41.7035	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	18	904	100	2.95022	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_112	2733	21.4782	0	Partial reference match	Fusarium host reference	Fusarium host reference	513	85.746	17	456	388	2711	99.195	21.2949	SRR27384773	DNA	Partial reference match	453	16.5751920965971	Partial support	TRUE	TRUE
+k141_113	702	49.1453	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	106	690	98.2906	22.5897	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_118	242739	47.9556	0	Partial reference match	Fusarium host reference	Fusarium host reference	68678	99.072	16	38997	75715	242739	100	46.7846	SRR27384773	DNA	Partial reference match	144300	59.4465660647856	Partial support	TRUE	TRUE
+k141_119	1022	21.2329	0	Partial reference match	Fusarium host reference	Fusarium host reference	505	80.993	56	584	131	1015	99.3151	19.227	SRR27384773	DNA	Partial reference match	578	56.5557729941292	Partial support	TRUE	TRUE
+k141_140	2163000	48.7406	0	Partial reference match	Fusarium host reference	Fusarium host reference	515600	99.9	13	286668	691495	2162992	99.9996	47.9515	SRR27384773	DNA	Partial reference match	1069597	49.4496994914471	Partial support	TRUE	TRUE
+k141_141	709	55.5712	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	15	709	100	3.15797	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_142	559	15.5635	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	804	91.935	99	558	51	559	100	13.6852	SRR27384773	DNA	Fusarium host reference	559	100	Broad support	FALSE	FALSE
+k141_143	76277	31.1483	0	Partial reference match	Fusarium host reference	Fusarium host reference	41803	99.68	31	23407	441374	76168	99.8571	867.825	SRR27384773	DNA	Partial reference match	74483	97.6480459378319	Broad support	TRUE	TRUE
+k141_144	2368	23.8598	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	463	2368	100	29.3285	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_145	221403	48.9939	0	Partial reference match	Fusarium host reference	Fusarium host reference	312900	99.895	79	173986	71672	221403	100	48.5554	SRR27384773	DNA	Partial reference match	220246	99.4774235218132	Broad support	TRUE	TRUE
+k141_146	549	16.2113	0	Partial reference match	Fusarium host reference	Fusarium host reference	510	87.901	74	405	28	549	100	7.65027	SRR27384773	DNA	Partial reference match	549	100	Broad support	FALSE	FALSE
+k141_147	1902	26.551	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	322	1899	99.8423	25.3822	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_148	673	23.477	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	55	673	100	12.2244	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_149	1641	20.9019	0	Partial reference match	Fusarium host reference	Fusarium host reference	661	81.778	42	686	219	1641	100	20.0183	SRR27384773	DNA	Partial reference match	687	41.8647166361974	Partial support	TRUE	TRUE
+k141_151	289640	48.8693	0	Partial reference match	Fusarium host reference	Fusarium host reference	217800	99.784	42	121453	91201	289640	100	47.2295	SRR27384773	DNA	Partial reference match	288352	99.5553100400497	Broad support	TRUE	TRUE
+k141_288	1723907	48.3735	0	Partial reference match	Fusarium host reference	Fusarium host reference	424400	99.743	14	236867	549429	1723907	100	47.8044	SRR27384773	DNA	Partial reference match	828040	48.0327535070047	Partial support	TRUE	TRUE
+k141_152	1815425	48.2089	0	Partial reference match	Fusarium host reference	Fusarium host reference	287100	99.793	9	159968	574916	1815420	99.9997	47.5001	SRR27384773	DNA	Partial reference match	526357	28.9935965407549	Partial support	TRUE	TRUE
+k141_153	1002	17.8643	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	939	82.463	95	958	68	1002	100	10.1796	SRR27384773	DNA	Fusarium host reference	956	95.4091816367265	Broad support	FALSE	FALSE
+k141_154	268581	49.2537	0	Partial reference match	Fusarium host reference	Fusarium host reference	255300	99.798	53	142323	87179	268581	100	48.6859	SRR27384773	DNA	Partial reference match	268292	99.8923974517929	Broad support	TRUE	TRUE
+k141_289	953693	48.8668	0	Partial reference match	Fusarium host reference	Fusarium host reference	758600	99.856	44	422179	305095	953693	100	47.9837	SRR27384773	DNA	Partial reference match	807352	84.6553345783182	Broad support	TRUE	TRUE
+k141_155	557103	47.1448	0	Partial reference match	Fusarium host reference	Fusarium host reference	120000	98.461	12	69186	173180	557103	100	46.6269	SRR27384773	DNA	Partial reference match	278297	49.9543172447465	Partial support	TRUE	TRUE
+k141_156	600	59.6667	0	Homo_sapiens	Homo_sapiens	Homo_sapiens	946	94.901	100	608	13	541	90.1667	3.25	SRR27384773	DNA	Homo_sapiens	600	100	Broad support	TRUE	TRUE
+k141_157	1313	15.08	0	Partial reference match	Fusarium host reference	Fusarium host reference	1294	88.224	78	1019	84	1313	100	9.59634	SRR27384773	DNA	Partial reference match	1024	77.989337395278	Partial support	FALSE	FALSE
+k141_290	1299820	48.0438	0	Partial reference match	Fusarium host reference	Fusarium host reference	385500	99.394	17	217018	409172	1299771	99.9962	47.2162	SRR27384773	DNA	Partial reference match	644598	49.5913280300349	Partial support	TRUE	TRUE
+k141_292	19198	34.0035	0	Partial reference match	Fusarium host reference	Fusarium host reference	25045	99.899	72	13925	128336	19182	99.9167	1002.63	SRR27384773	DNA	Partial reference match	18962	98.7707052818002	Broad support	TRUE	TRUE
+k141_293	216104	49.1347	0	Fusarium host reference	Fusarium host reference	Fusarium host reference	387800	99.786	100	216190	69430	216093	99.9949	48.1901	SRR27384773	DNA	Fusarium host reference	216104	100	Broad support	TRUE	TRUE
+k141_294	921911	48.9536	0	Partial reference match	Fusarium host reference	Fusarium host reference	279600	99.862	17	155622	298769	921911	100	48.6094	SRR27384773	DNA	Partial reference match	613033	66.4958981940773	Partial support	TRUE	TRUE
+k141_295	950442	48.3256	0	Partial reference match	Fusarium host reference	Fusarium host reference	399100	99.893	23	221889	301773	950442	100	47.624	SRR27384773	DNA	Partial reference match	654993	68.914568169336	Partial support	TRUE	TRUE
+k141_296	2679496	47.8265	0	Partial reference match	Fusarium host reference	Fusarium host reference	474500	99.312	10	267673	842621	2679484	99.9996	47.1679	SRR27384773	DNA	Partial reference match	1025541	38.2736529556305	Partial support	TRUE	TRUE
+k141_297	797929	49.1096	0	Partial reference match	Fusarium host reference	Fusarium host reference	208200	99.927	14	115696	257312	797929	100	48.3687	SRR27384773	DNA	Partial reference match	460449	57.7055101393733	Partial support	TRUE	TRUE
+k141_298	78502	48.9949	0	Partial reference match	Fusarium host reference	Fusarium host reference	107500	99.871	76	59805	24970	78502	100	47.7098	SRR27384773	DNA	Partial reference match	77816	99.1261369137092	Broad support	FALSE	FALSE
+k141_299	570599	47.0081	0	Partial reference match	Fusarium host reference	Fusarium host reference	133000	98.816	13	75941	176618	570599	100	46.4275	SRR27384773	DNA	Partial reference match	281199	49.2813692277764	Partial support	TRUE	TRUE
+k141_301	839	17.5209	0	Partial reference match	Fusarium host reference	Fusarium host reference	578	91.304	49	414	82	839	100	14.6603	SRR27384773	DNA	Partial reference match	413	49.2252681764005	Partial support	TRUE	TRUE
+k141_302	1030	14.8544	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	32	1030	100	4.66019	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_303	1891	15.23	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	98	1799	95.1348	7.77366	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_304	631	15.8479	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	495	631	100	117.58	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_305	1202	14.8918	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	36	1201	99.9168	4.49251	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_306	1303	19.8772	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	174	1303	100	20.0307	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	TRUE	FALSE
+k141_307	8250	45.3576	0	Partial reference match	Fusarium host reference	Fusarium host reference	469	85.821	5	402	2463	8250	100	44.781	SRR27384773	DNA	Partial reference match	402	4.87272727272727	Partial support	FALSE	FALSE
+k141_308	545	14.8624	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	24	545	100	6.6055	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_311	999	20.8208	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	111	982	98.2983	16.6667	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_312	3678	29.1735	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	839	3678	100	34.1879	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE
+k141_313	1683223	48.9604	0	Partial reference match	Fusarium host reference	Fusarium host reference	506900	99.91	17	281774	536009	1683223	100	47.763	SRR27384773	DNA	Partial reference match	737560	43.8183175966583	Partial support	TRUE	TRUE
+k141_314	559	63.1485	0	No qualifying reference hit	NA	NA	NA	NA	NA	NA	11	559	100	2.94991	SRR27384773	DNA	No qualifying reference hit	0	0	No qualifying hit	FALSE	FALSE

@@ -1,0 +1,18 @@
+ 
+============================================================
+=====     Queued job information at submit time        =====
+============================================================
+  The submitted file is: 09_blobplots_local.sh
+  The time limit is 360:00:00 HH:MM:SS.
+  The target directory is: /scratch/aubaxp004/fusarium_screen_v2/scripts
+  The memory limit is: 64gb
+  The job will start running after: 202610182234.14
+  Job Name: 09blobplotslocalsh
+  Queue: -q large
+  Constraints: 
+  Command typed:
+/scripts/run_script 09_blobplots_local.sh     
+  Queue submit command:
+qsub -q large -j oe -N 09blobplotslocalsh -a 202610182234.14 -r n -M azp0208@auburn.edu -l walltime=360:00:00 -l select=ncpus=64:mpiprocs=64:mem=64000mb 
+  Job number: 103674
+ 

@@ -1,0 +1,86 @@
+# Raw reads, local references, databases, alignments and assembly workspaces
+/raw/
+/refs/
+/databases/
+/mapping/
+/assembly/
+/tmp/
+/logs/
+/validation/
+/blobplots/
+/blobplots_local/
+/blobplots_corrected/
+/submission/
+
+# Large per-read classification files; KEEP small Kraken reports and sketches
+/screen/kraken2/*.classifications.tsv
+
+# Large sequence/alignment files wherever they occur
+*.sra
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.fna
+*.fna.gz
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+*.fai
+*.gzi
+
+# Rebuildable indexes
+*.bt2
+*.bt2l
+*.ht2
+*.ht2l
+*.k2d
+*.nhr
+*.nin
+*.nsq
+*.ndb
+*.not
+*.ntf
+*.nto
+*.nog
+*.nos
+*.pot
+*.ptf
+*.pto
+
+# Temporary, compressed submission and scheduler output files
+*.part
+*.download
+*.lock
+*.log
+*.tar.gz
+*.tgz
+*.zip
+*.o[0-9]*
+*.e[0-9]*
+*.OU
+*.ER
+
+# Local software environments and editor/OS files
+/.conda/
+/.venv/
+/envs/
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Keep scripts, manifests, environment files, screen summary reports,
+# results/*.tsv, results/*.md, and curated results/figures/ under version control.
+# .gitignore does not remove files that are already tracked.

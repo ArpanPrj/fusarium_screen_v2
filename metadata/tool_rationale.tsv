@@ -1,0 +1,10 @@
+tool	reason_for_selection
+SRA_Toolkit	Download original reads by accession.
+SendSketch	Remote candidate screening without database downloads.
+Kraken2	Read-pair classification using the existing cluster database.
+Bowtie2	Competitive alignment of short DNA reads.
+HISAT2	Splice-aware competitive alignment of RNA reads.
+SAMtools	Alignment filtering and read/depth/breadth measurements.
+MEGAHIT	Exploratory assembly of the DNA readset.
+rnaSPAdes	Transcriptome assembly of the RNA readset as suggested in the assignment.
+BLASTn	Remote validation of a few selected assembled contigs.

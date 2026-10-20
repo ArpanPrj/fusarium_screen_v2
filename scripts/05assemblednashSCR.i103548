@@ -1,0 +1,18 @@
+ 
+============================================================
+=====     Queued job information at submit time        =====
+============================================================
+  The submitted file is: 05_assemble_dna.sh
+  The time limit is 360:00:00 HH:MM:SS.
+  The target directory is: /scratch/aubaxp004/fusarium_screen_v2/scripts
+  The memory limit is: 42gb
+  The job will start running after: 202610181323.45
+  Job Name: 05assemblednashSCR
+  Queue: -q large
+  Constraints: 
+  Command typed:
+/scripts/run_script 05_assemble_dna.sh     
+  Queue submit command:
+qsub -q large -j oe -N 05assemblednashSCR -a 202610181323.45 -r n -M azp0208@auburn.edu -l walltime=360:00:00 -l select=ncpus=42:mpiprocs=42:mem=42000mb 
+  Job number: 103548
+ 

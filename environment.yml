@@ -1,0 +1,23 @@
+# Portable dependency specification, not a record of the versions used originally.
+# Save the actual installed versions separately; see README.md.
+name: contamination
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - sra-tools              # prefetch and fasterq-dump
+  - bbmap                  # sendsketch.sh
+  - openjdk                # Java runtime for BBTools
+  - kraken2                # uses /datasets/unzipped/kraken2_full; no DB download
+  - bowtie2                # DNA mapping and reads-to-assembly mapping
+  - hisat2                 # splice-aware RNA-to-genome mapping
+  - samtools>=1.13         # BAM/FASTA utilities and uncapped modern depth counting
+  - megahit                # exploratory DNA assembly
+  - spades                 # includes rnaspades.py for RNA assembly
+  - blast                  # blastn and makeblastdb
+  - r-base>=4.1            # base-R plots; no additional R packages needed
+  - curl                   # HTTPS downloads of selected reference FASTAs
+# ASC provides Bash, awk, sort, gzip, tar, sha256sum, flock, tee and Git.
+# Python may be installed transitively by tools such as SPAdes; workflow scripts
+# remain Bash with embedded R. This file contains software, not reference data.

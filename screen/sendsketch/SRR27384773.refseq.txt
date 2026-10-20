@@ -1,0 +1,104 @@
+
+Query: SRR27384773.1 A00197:158:HKVKMDSXX:3:1101:6406:1000 length=150	DB: RefSeq	SketchLen: 66222	Seqs: 12446790 	Bases: 1867018500	gSize: 39977874	GC: 0.478	Quality: 0.9450
+WKID	KID	ANI	SSU	Complt	Contam	Matches	Unique	TaxID	gSize	gSeqs	taxName
+90.15%	82.05%	99.62%	.	100%	1.58%	40904	26506	229533	36210K	19	Fusarium graminearum PH-1
+30.72%	28.10%	95.81%	.	48.62%	55.54%	13999	460	1028729	36534K	281	Fusarium pseudograminearum CS3096
+6.09%	5.74%	90.31%	.	23.50%	77.86%	2801	30	56646	37665K	7	Fusarium venenatum
+1.70%	1.60%	86.17%	.	19.18%	82.02%	782	5	231269	37473K	551	Fusarium coffeatum
+97.10%	0.20%	99.90%	.	100%	62.89%	134	0	569362	92323	1	Fusarium gerlachii
+84.71%	0.20%	99.40%	.	100%	62.89%	133	0	5516	102961	1	Fusarium culmorum
+0.53%	0.47%	82.49%	.	14.86%	83.11%	231	1	1089451	45514K	418	Fusarium odoratissimum NRRL 54006
+0.53%	0.46%	82.51%	.	14.60%	83.12%	226	1	660029	46286K	168	Fusarium oxysporum NRRL 32931
+0.48%	0.43%	82.19%	.	15.03%	83.17%	208	1	1227346	44809K	32	Fusarium proliferatum ET1
+0.46%	0.43%	82.14%	.	15.63%	83.18%	207	2	1279085	43064K	12	Fusarium fujikuroi IMI 58289
+0.45%	0.43%	82.02%	.	16.20%	83.17%	207	1	334819	41603K	21	Fusarium verticillioides 7600
+0.19%	0.15%	79.46%	.	13.31%	83.45%	78	0	660122	49722K	209	Fusarium vanettenii 77-13-4
+16.13%	0.02%	93.21%	.	100%	63.07%	15	0	48490	66605	2	Fusarium circinatum
+14.71%	0.02%	93.22%	.	100%	63.07%	15	0	2600298	62071	1	Fusarium bambusae
+13.89%	0.02%	93.02%	.	100%	63.08%	10	0	249398	45553	1	Fusarium commune
+6.67%	0.02%	90.36%	.	100%	63.08%	11	0	260675	85672	1	Citrullus rehmii
+6.55%	0.02%	90.31%	.	100%	63.08%	11	0	519315	85427	1	Citrullus mucosospermus
+6.43%	0.02%	90.24%	.	100%	63.08%	11	0	1567104	85934	1	Citrullus amarus
+5.99%	0.02%	90.11%	.	100%	63.08%	10	0	252529	85750	1	Citrullus colocynthis
+8.41%	0.01%	91.48%	.	100%	63.08%	9	0	29855	68121	1	Nectria cinnabarina
+1.67%	0.02%	85.95%	.	100%	63.08%	11	0	3654	403848	2	Citrullus lanatus
+5.36%	0.01%	89.81%	.	100%	63.08%	9	0	3668	85288	1	Lagenaria siceraria
+8.16%	0.01%	90.57%	.	100%	63.08%	8	0	169388	61901	2	Fusarium solani
+0.06%	0.05%	76.15%	.	26.28%	78.30%	26	0	655819	32956K	237	Beauveria bassiana ARSEF 2860
+0.06%	0.06%	76.10%	.	16.44%	83.57%	26	4	367110	39987K	21	Neurospora crassa OR74A
+0.05%	0.04%	75.70%	.	27.69%	77.52%	21	0	58853	32405K	535	Trichoderma citrinoviride
+0.05%	0.05%	75.96%	.	17.36%	83.56%	24	0	510951	37835K	81	Neurospora tetrasperma FGSC 2508
+0.04%	0.03%	75.10%	.	31.24%	75.67%	17	3	983644	31054K	32	Cordyceps militaris CM01
+4.05%	0.01%	88.93%	.	100%	63.08%	6	0	442738	87734	1	Cucumis x hytivus
+4%	0.01%	88.92%	.	100%	63.08%	6	0	387127	84574	1	Coccinia grandis
+15.63%	0.01%	93.02%	.	100%	63.08%	5	0	741158	15614	1	Homo sapiens subsp. 'Denisova'
+3.90%	0.01%	88.84%	.	100%	63.08%	6	0	412675	87429	1	Cucumis melo subsp. melo
+9.80%	0.01%	91.97%	.	100%	63.08%	5	0	64609	42111	1	Ilyonectria destructans
+0.05%	0.04%	74.57%	.	18.62%	83.16%	21	0	1042311	36141K	419	Trichoderma asperellum CBS 433.97
+0.05%	0.04%	74.54%	.	17.57%	83.57%	21	0	398673	37360K	174	Trichoderma gamsii
+0.04%	0.04%	74.32%	.	19.50%	82.57%	18	0	452589	35703K	29	Trichoderma atroviride IMI 206040
+3.38%	0.01%	88.23%	.	100%	63.08%	5	0	3677	82886	1	Trichosanthes kirilowii
+0.03%	0.03%	74.45%	.	27.49%	77.67%	15	0	1081104	32423K	430	Cordyceps fumosorosea ARSEF 2679
+0.03%	0.03%	74.83%	.	25.81%	78.63%	15	0	431241	33067K	77	Trichoderma reesei QM6a
+15.38%	0.01%	86.36%	.	100%	63.09%	4	0	10092	15464	1	Mus musculus domesticus
+0.04%	0.03%	74.55%	.	17.55%	83.57%	17	0	771870	37404K	1583	Sordaria macrospora k-hell
+0.04%	0.04%	74.74%	.	16.97%	83.57%	17	0	413071	38689K	93	Trichoderma virens Gv29-8
+9.30%	0.01%	91.72%	.	100%	63.09%	4	0	192010	29065	1	Fusarium mangiferae
+0.04%	0.03%	75.13%	.	14.01%	83.61%	17	0	645133	46827K	654	Colletotrichum graminicola M1.001
+0.03%	0.01%	73.28%	.	96.25%	63.08%	8	2	103796	15331K	49778	Pseudomonas syringae pv. actinidiae
+0.04%	0.03%	74.64%	.	13.95%	83.61%	16	0	1209926	47029K	322	Colletotrichum orchidophilum
+0.03%	0.03%	74.64%	.	16.54%	83.57%	15	0	983964	39745K	532	Trichoderma harzianum CBS 226.95
+0.03%	0.02%	73.91%	.	34.39%	74.06%	11	0	526221	30100K	27	Verticillium alfalfae VaMs.102
+0.03%	0.03%	74.53%	.	17.62%	83.58%	14	0	33203	37231K	166	Purpureocillium lilacinum
+2.60%	0.01%	86.91%	.	100%	63.09%	4	0	190515	81551	1	Siraitia grosvenorii
+0.03%	0.03%	74.43%	.	13.62%	83.62%	14	0	759273	48140K	25	Colletotrichum higginsianum IMI 349063
+0.03%	0.03%	74.06%	.	18.38%	83.29%	13	1	1276141	36332K	92	Metarhizium brunneum ARSEF 3297
+0.03%	0.02%	73.86%	.	29.08%	76.84%	11	0	1051616	31756K	632	Verticillium nonalfalfae
+0.10%	0.01%	77.60%	.	100%	63.08%	6	0	2144185	3784304	259	Planctomonas deserti
+0.03%	0.02%	72.90%	.	28.33%	77.21%	11	0	498257	32122K	55	Verticillium dahliae VdLs.17
+0.29%	0.01%	80.76%	.	100%	63.08%	5	0	3663	1011552	2	Cucurbita pepo
+0.02%	0.02%	73.94%	.	23.77%	79.83%	11	0	515849	33886K	33	Podospora anserina S mat+
+0.03%	0.02%	73.89%	.	17.79%	83.59%	12	0	242507	36848K	53	Pyricularia oryzae 70-15
+0.03%	0.02%	74.00%	.	16.97%	83.58%	12	0	655844	38692K	90	Metarhizium robertsii ARSEF 23
+0.03%	0.02%	73.92%	.	15.38%	83.61%	12	0	1380566	42653K	49	Pochonia chlamydosporia 170
+0.02%	0.01%	72.43%	.	35.39%	73.56%	8	2	342668	29818K	152	Pseudogymnoascus verrucosus
+9.68%	0.00%	88.17%	.	100%	63.09%	3	0	1425170	13827	1	Homo heidelbergensis
+0.03%	0.01%	71.25%	.	100%	63.08%	6	0	90370	12557K	114456	Salmonella enterica subsp. enterica serovar Typhi
+0.02%	0.01%	72.98%	.	45.87%	69.02%	7	2	344612	26980K	143	Aspergillus clavatus NRRL 1
+6.52%	0.00%	90.55%	.	100%	63.09%	3	0	2231603	25407	4	Akanthomyces muscarius
+5.56%	0.00%	89.72%	.	100%	63.09%	3	0	38006	38819	4	Beauveria caledonica
+6.52%	0.00%	90.28%	.	100%	63.09%	3	0	29910	25149	1	Tolypocladium inflatum
+4.23%	0.00%	85.66%	.	100%	63.09%	3	0	29856	39618	1	Clonostachys rosea
+0.02%	0.02%	73.24%	.	17.87%	83.61%	10	0	655827	36632K	241	Metarhizium acridum CQMa 102
+0.02%	0.01%	72.82%	.	45.82%	68.96%	7	0	441960	27057K	452	Talaromyces marneffei ATCC 18224
+0.02%	0.01%	72.61%	.	60.09%	63.89%	6	1	1328760	24022K	27	Xylona heveae TC161
+0.03%	0.02%	72.96%	.	12.78%	83.62%	10	0	1229662	51285K	39	Pestalotiopsis fici W106-1
+0.02%	0.01%	72.79%	.	41.49%	70.78%	7	0	285224	28095K	23	Thermochaetoides thermophila
+0.02%	0.01%	73.15%	.	27.96%	77.44%	8	0	1397361	32217K	16	Sporothrix schenckii 1099-18
+2.17%	0.00%	86.94%	.	100%	63.09%	3	0	396994	87731	1	Cucumis hystrix
+2%	0.00%	86.65%	.	100%	63.09%	3	0	4312	78654	1	Corynocarpus laevigatus
+0.02%	0.01%	72.86%	.	32.55%	74.95%	7	1	1450539	30714K	120	Aspergillus saccharolyticus JOP 1030-1
+0.02%	0.01%	73.56%	.	100%	63.08%	5	0	698492	14105K	35	Saitoella complicata NRRL Y-17804
+0.13%	0.01%	74.67%	.	100%	63.09%	4	0	813	1871051	525	Chlamydia trachomatis
+0.02%	0.02%	72.99%	.	16.94%	83.59%	9	0	1093900	38726K	361	Thyridium curvatum
+0.02%	0.02%	72.44%	.	17.91%	83.61%	9	0	332952	36542K	331	Aspergillus flavus NRRL3357
+0.02%	0.02%	72.44%	.	17.84%	83.61%	9	0	510516	36722K	11	Aspergillus oryzae RIB40
+0.01%	0.01%	72.37%	.	51.50%	66.86%	6	0	1043005	25728K	75	Aureobasidium subglaciale EXF-2481
+0.09%	0.01%	73.78%	.	100%	63.09%	4	0	83555	2782136	2034	Chlamydia abortus
+0.14%	0.01%	78.77%	.	0.64%	83.39%	8	6	7955	1050M	3164	Danio rerio
+0.01%	0.01%	72.15%	.	55.20%	65.45%	5	2	655981	25029K	87	Pseudogymnoascus destructans
+0.02%	0.02%	73.03%	.	15.50%	83.62%	8	1	563466	42288K	177	Scedosporium apiospermum
+0.01%	0.01%	71.97%	.	39.79%	71.53%	6	0	1220924	28555K	19	Cyphellophora europaea CBS 101466
+0.02%	0.01%	72.10%	.	25.77%	78.60%	7	0	1450537	33153K	152	Aspergillus homomorphus CBS 101889
+0.02%	0.02%	72.81%	.	17.83%	83.60%	8	0	1392250	36758K	37	Aspergillus steynii IBT 23096
+0.01%	0.01%	72.02%	.	67.66%	63.08%	5	0	559305	21799K	36	Trichophyton rubrum CBS 118892
+0.02%	0.02%	72.23%	.	15.74%	83.61%	8	0	148305	41690K	43	Pyricularia grisea
+0.01%	0.01%	71.76%	.	54.45%	65.74%	5	1	1073090	25170K	246	Penicilliopsis zonata CBS 506.65
+0.02%	0.01%	72.75%	.	22.60%	80.53%	7	0	236234	34386K	184	Diplodia corticola
+0.02%	0.01%	72.60%	.	22.04%	80.91%	7	0	671987	34593K	407	Exserohilum turcica Et28A
+0.01%	0.01%	72.37%	.	31.57%	75.45%	6	0	500485	31015K	49	Penicillium rubens Wisconsin 54-1255
+0.01%	0.01%	72.14%	.	54.17%	65.82%	5	0	1043004	25237K	47	Aureobasidium namibiae CBS 147.97
+0.01%	0.01%	72.42%	.	30.60%	75.95%	6	0	985895	31356K	76	Plenodomus lingam JN3
+0.01%	0.01%	72.34%	.	28.33%	77.18%	6	0	306901	32172K	37	Chaetomium globosum CBS 148.51
+0.02%	0.01%	72.53%	.	17.66%	83.59%	7	0	109264	37117K	451	Aspergillus bombycis
+
